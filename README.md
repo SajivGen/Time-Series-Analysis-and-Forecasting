@@ -1,1 +1,3 @@
 # Time-Series-Analysis-and-Forecasting
+## Summary
+The task at hand involves analyzing and forecasting wine sales for ABC Estate Wines throughout the 20th century. This assignment focuses on examining historical sales data for various types of wine produced by the company. As an analyst for ABC Estate Wines, the objective is to delve into the sales trends of these wines over the course of the 20th century and provide accurate forecasts for the remaining years. This analysis will aid in understanding the historical performance of each wine type and facilitate informed decision-making regarding future production and sales strategies.
